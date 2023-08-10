@@ -1,0 +1,8 @@
+.card{
+    text-align: center;
+    border: none;
+}
+.card img{
+    width: 300px;
+    height: 300px;
+}

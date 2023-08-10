@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.login-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 71vh;
+    margin: auto;
+    border-radius: 10px;
+    font-size: 23px;
+    position: relative;
+    margin-top: 20px;
+    padding: 50px;
+    /* background-color: blue; */
+    background-image: linear-gradient(145deg,blue,black);
+    color: white;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.login-container input{
+    /* padding: 14px; */
+    position: relative;
+    width: 300px;
+    border-radius: 30px;
+    margin-top: 10px;
+
+}
